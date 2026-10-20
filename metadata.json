@@ -1,0 +1,6 @@
+{
+  "name": "DrugWatch HP",
+  "description": "Himachal Pradesh Drug Trafficking Prevention and Analysis System for responsible incident reporting, verified case pattern analysis, and district-level hotspot monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
